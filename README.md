@@ -1,9 +1,7 @@
 <h1 align="center"> Weather React App📝</h1>  
 <p align="center">
-  🖊 Приложение погоды , созданное с использованием <a href="https://reactjs.org/">React</a> и <a href="[https://mantine.dev/](https://sass-lang.com/](https://styled-components.com/docs/basics)">Styled component</a>
+Приложение погоды созданное с использованием React, Redux Toolkit, Redux Saga и оформленное с использованием Styled component.
 </p>
-
-## Это приложение погоды созданное с использованием React, Redux Toolkit, Redux Saga и оформленное с использованием Styled component.
 
 ## Getting started
 
